@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Raunel Suarez-Magana",
+    "description":"Web Developer",
+    "image":"headshot1.jpg",
+    "bio":"Full Stack Web Developer, recently earned a certificate from the UT coding bootcamp. Graduated from the University of Texas at Austin with a bachelor's degree in Mathematics. Worked in education for four years. I'm excited to learn more about software development, and eager to work where I can improve education and users' lives.",
+    "contactmessage":"I would love to connect with you. Shoot me an email or add me on linkedin!",
+    "email": "raunel.magana@gmail.com",
+    "phone": "254-229-8802",
+    "github":"https://github.com/26rsuarez",
+    "linkedin": "https://www.linkedin.com/in/raunel-suarez-magana",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://26rsuarez.github.io",
+    "resume":"magana_raunel_resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/raunel-suarez-magana",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/26rsuarez",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the programming languages I know. I still have a lot to learn, but I'm excited about improving!",
+    "education":[
+      {
+        "school":"Coding Bootcamp at UT Austin",
+        "degree":"Certificate in Computer Science ",
+        "graduated":"December 2020",
+        "description":"Learned front-end and back-end technologies."
+      },
+      {
+        "school":"University of Texas at Austin",
+        "degree":"Bachelor of Science in Mathematics",
+        "graduated":"December 2016",
+        "description":"Graduated with a teaching certificate."
+      }
+    ],
+    "work":[
+      {
+        "company":"Marble Falls High School",
+        "title":"Teacher",
+        "years":"Jan. 2017 - May 2020",
+        "description":"Taught high school math to students of different levels and backgrounds. Created lessons and assessments."
+      },
+      {
+        "company":"University of Texas Libraries",
+        "title":"Computer Help Assistant",
+        "years":"Aug. 2014 - Dec. 2016",
+        "description":"Assisted users with basic computer questions such as: printing, word, excel, etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Junai Menu",
+        "category":"A restaurant website with an interactive menu and real life application",
+        "image":"sushi-junai.png",
+        "url":"https://sushi-junai.app"
+      },
+      {
+        "title":"PhotoPhriend",
+        "category":"A web application that gives photographers important information and inspiration for future shoots.",
+        "image":"photophriend.PNG",
+        "url":"https://26rsuarez.github.io/photophriend/"
+      },
+      {
+        "title":"ChillCubes",
+        "category":"An application that displays animations created using threeJs.",
+        "image":"chillcubes.PNG",
+        "url":"https://chillcubes.herokuapp.com"
+      },
+      {
+        "title":"Google Book Search",
+        "category":"A react app that stores books searched by users through the google books api.",
+        "image":"booksearch.png",
+        "url":"https://booksearch-rsm.herokuapp.com/"
+      }
+    ]
+  }
+}
