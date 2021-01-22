@@ -1,29 +1,13 @@
-# React Nice Resume     
+# Personal Portfollio     
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+Deployed [here](https://26rsuarez.github.io/portfolio)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+# Description
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+My portfolio shows some of the projects that I have worked on. You can also download my resume, get contact information and access my social media links. I used a template because I liked the style and user friendly way to edit the code.
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
-## Description
+## Credit to:
 This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
 
-## Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. BUild
-```shell
-npm run build
-```
